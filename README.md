@@ -5,17 +5,37 @@ ele fornece estatísticas detalhadas a respeito do desempenho de cada aluno ao f
 
 
 ## Funcionalidades
-###📝 Cadastro de aluno e turma
 
-###📚 Seleção de matérias e dificuldade (Fácil, Médio, Difícil, Mista)
+📝 - Cadastro de aluno e turma
 
-###🔢 Escolha do número de perguntas
+📚 - Seleção de matérias e dificuldade (Fácil, Médio, Difícil, Mista)
 
-###✅ Avaliação imediata com feedback e explicações
+🔢 - Escolha do número de perguntas
 
-###📊 Geração de estatísticas e gráficos interativos
+✅ - Avaliação imediata com feedback e explicações
 
-###☁️ Integração com Google Sheets (para salvar resultados)
+📊 - Geração de estatísticas e gráficos interativos
 
-###📥 Exportação dos resultados em Excel (.xlsx)
+☁️ - Integração com Google Sheets (para salvar resultados)
+
+📥 - Exportação dos resultados em Excel (.xlsx)
+
+
+## Tecnologias utilizadas:
+
+- Streamlit
+- Pandas
+- Plotly
+- gspread + Google API ( Sheets e Drive)
+
+
+## Para Professores
+
+- Você pode usar este quiz em sala de aula para:
+
+- Avaliar o desempenho dos alunos
+
+- Trabalhar conteúdos de forma lúdica
+
+- Acompanhar evolução por tema/matéria
 
